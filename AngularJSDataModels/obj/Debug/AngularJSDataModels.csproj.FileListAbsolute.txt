@@ -1,0 +1,10 @@
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.csprojResolveAssemblyReference.cache
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.dll
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSDataModels\bin\Debug\AngularJSDataModels.pdb
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.csprojResolveAssemblyReference.cache
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.dll
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSDataModels\obj\Debug\AngularJSDataModels.pdb

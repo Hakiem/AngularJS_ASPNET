@@ -1,0 +1,10 @@
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+C:\MyFiles\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.dll
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\bin\Debug\AngularJSUtilities.pdb
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.csprojResolveAssemblyReference.cache
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.dll
+E:\Chrome_Downloads\CodeProjectAngularJSSource\CodeProjectAngularJS\AngularJSUtilities\obj\Debug\AngularJSUtilities.pdb
